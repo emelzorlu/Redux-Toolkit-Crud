@@ -9,7 +9,7 @@ Currently, two official plugins are available:
 
 # Redux-Toolkit-Crud
 
-[EkranKayd2024-03-0422.13.51-ezgif.com-video-to-gif-converter.gif.download.zip](https://github.com/emelzorlu/Redux-Toolkit-Crud/files/14486382/EkranKayd2024-03-0422.13.51-ezgif.com-video-to-gif-converter.gif)
+[EkranKayd2024-03-0422.13.51-ezgif.com-video-to-gif-converter.gif](https://github.com/emelzorlu/Redux-Toolkit-Crud/files/14486382/EkranKayd2024-03-0422.13.51-ezgif.com-video-to-gif-converter.gif)
 
 #Kullanılan Teknolojiler
 --React
